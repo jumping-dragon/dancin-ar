@@ -62,7 +62,6 @@ It will has mannequin ready to dance. Click the screen to place the mannequin an
 
 ### Deploy Sumerian
 
-
 1. In the AWS Management Console, on the service menu, click **Sumerian**.
 
 2. Select **Empty** on **Create scene from template** part
