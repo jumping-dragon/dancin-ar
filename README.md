@@ -36,6 +36,8 @@ It will has mannequin ready to dance. Click the screen to place the mannequin an
 <img src="./Images/1.jpg" alt=" AWSSumerian.jpg "  width="70%" height="70%">
 </p>
 
+![]("./Images/1.jpg")
+
 
 2. Give the project a name __ar-object-placing__, and click __Create__.
 
