@@ -56,10 +56,7 @@ It will has mannequin ready to dance. Click the screen to place the mannequin an
 
 4. Open __Setting__ icon on the left pane, then copy and save your **8th Wall app key** for use later in this tutorial.
 
-<p align="center">
 <img src="./Images/5.jpg" alt=" AWSSumerian.jpg "  width="70%" height="70%">
-</p>
-
 
 ### Deploy Sumerian
 
